@@ -8,8 +8,8 @@
 </div>
 
 ###
+![brawl-stars-ollie](https://github.com/user-attachments/assets/93c665b1-c36b-452d-9888-361b1a6b3ff4)
 
-<img align="right" height="200" src="https://media1.tenor.com/m/3XZ7-Qe22BAAAAAC/brawl-stars-ollie.gif"  />
 
 ###
 
