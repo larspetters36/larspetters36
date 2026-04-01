@@ -2,7 +2,6 @@
 ###
 
 <img align="right" height="150" src="https://github.com/user-attachments/assets/4142da1d-427a-4098-8593-8f8ec76429d5"  />
-<img align="right" height="150" src="https://github.com/user-attachments/assets/93c665b1-c36b-452d-9888-361b1a6b3ff4"  />
 
 
 ###
