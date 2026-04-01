@@ -40,7 +40,18 @@
   <a href="https://link.brawlstars.com/invite/friend/en?tag=C8LUYGQ0&token=y82xgj27" target="_blank">
     <img src="https://img.shields.io/static/v1?message=brawl%20stars&logo=bluesky&label=&color=F5C64E&logoColor=white&labelColor=FFF&style=for-the-badge" height="35" alt="bluesky logo"  />
   </a>
-</div>
+</div>  
 
 ###
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+</picture>
+
+
+###
+
+ 
