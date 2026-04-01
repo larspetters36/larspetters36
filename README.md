@@ -37,6 +37,9 @@
   <a href="https://x.com/shadowzin_altf4" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
+  <a href="https://link.brawlstars.com/invite/friend/en?tag=C8LUYGQ0&token=y82xgj27" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=brawl%20stars&logo=bluesky&label=&color=F5C64E&logoColor=white&labelColor=FFF&style=for-the-badge" height="35" alt="bluesky logo"  />
+  </a>
 </div>
 
 ###
