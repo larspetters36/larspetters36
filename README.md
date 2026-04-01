@@ -1,5 +1,4 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+
 ###
 
 <img align="right" padding-right="20" height="150" src="https://github.com/user-attachments/assets/4142da1d-427a-4098-8593-8f8ec76429d5"  />
@@ -53,7 +52,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/larspetters36/larspetters36/output/pacman-contribution-graph.svg">
 </picture>
 
-</div>
 ###
 
  
