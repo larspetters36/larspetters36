@@ -13,7 +13,7 @@
 
 ###
 
-<p data-importer="text" align="left">Pretendo me tornar game dev ou técnico de informática.</p>
+<p data-importer="text" align="left">Pretendo me tornar game dev ou técnico de informática, mas desejo ter oportunidades em outras áreas da tecnologia.</p>
 
 ###
 
